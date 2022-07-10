@@ -4,6 +4,7 @@
 A [dataset](/Task_1/data/data.csv) contains employee data who left the company between 4/2012 and 3/2015. The meaning of each of the column names in mentioned in the figure below.
 
 | Column Name | Description |
+| :---------- | :---------- |
 | ID | ID |
 | Start Date | Job Start Date |
 | End Date | Job End Date | 
